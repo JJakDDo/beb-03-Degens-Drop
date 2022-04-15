@@ -1,0 +1,9 @@
+build:
+  docker:
+    web: ./client/Dockerfile
+run:
+  web: bundle exec puma -C config/puma.rb
+  worker:
+    command:
+      - python myworker.py
+    image: web
