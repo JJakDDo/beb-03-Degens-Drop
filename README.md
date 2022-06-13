@@ -18,6 +18,18 @@ npm install
 ```
 
 ## 사용 예제
+### 민팅
+민팅 페이지에서 NFT 이름, 설명, 이미지를 업로드하고 민팅 버튼을 클릭하면 새로운 NFT를 생성한다.  
+
+<img src="https://user-images.githubusercontent.com/34996487/173270680-6f4a9ccf-c343-4514-af5e-5605e8cf027b.png" width="800"></img>  
+### 판매
+NFT 상세페이지에서 Sell 버튼을 클릭하면 원하는 금액을 입력할 수 있는 모달창이 뜨고 완료 후 거래소에 등록된다.
+
+<img src="https://user-images.githubusercontent.com/34996487/173270683-4d901e4b-a1b0-4815-94c1-cd5f2f467718.png" width="800"></img>
+### 구매
+NFT 상세페이지에서 Buy 버튼을 클릭하면 버튼 아래에 있는 금액만큼 지불한 뒤 NFT를 구매하게 된다.
+
+<img src="https://user-images.githubusercontent.com/34996487/173270684-17fee5aa-2842-496f-9f03-66ebdc041344.png" width="800"></img>
 
 ## 업데이트 내역
 - 1.0.0
@@ -27,7 +39,6 @@ npm install
   - NFT 판매 및 구매
 
 ## 라이센스
-Licensed under MIT
 
 ## 외부 리소스
 - UI 템플릿
