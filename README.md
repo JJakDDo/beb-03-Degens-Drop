@@ -44,5 +44,5 @@ NFT 상세페이지에서 Buy 버튼을 클릭하면 버튼 아래에 있는 금
 - UI 템플릿
   - [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/dashboard)
   - 라이센스
-    - Copyright 2020 Creative Tim (https://www.creative-tim.com)
-    - Licensed under MIT (https://github.com/creativetimofficial/black-dashboard-react/blob/master/LICENSE.md)
+    - Copyright 2020 [Creative Tim](https://www.creative-tim.com)
+    - Licensed under [MIT](https://github.com/creativetimofficial/black-dashboard-react/blob/master/LICENSE.md)
